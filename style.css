@@ -1,0 +1,91 @@
+h1{
+    TEXT-ALIGN:CENTER;
+    border-color:white;
+    color:white;
+    background-color:green;
+    border-style:double;
+    border-width:9px;
+    border-style:solid;
+    border-style:double;
+    border-radius:80px;
+    font-size:39px;
+    font-family:GEORGIA;
+  }
+  button{
+    background-color:green;
+    text-align:center;
+    color:white;
+    padding:10px;
+    padding:left:30px;
+    pradding:right:10px;
+    padding-bottom:2px;
+    border-style:double;
+    border-bottom-style:double;
+    font-size:14px;
+    font-family:permanent marker;
+    border-radius:80px;
+    border-style:solid;
+    border-style:double;
+  }
+  technology{
+    background-color:green;
+  }
+  .jar1{
+   background-color:blue;
+    color:white;
+  }
+  IMG{
+    MARGIN-BOTTOM:50PX;
+    TRANSFORM:ROTATE(45 DEG);
+  }
+  H2{
+    PADDING-LEFT:20PX;
+    COLOR:BLUE;
+  }
+  P{
+  background-color:green;
+    text-align:center;
+    color:WHITE;
+    padding:left:30px;
+    pradding:right:10px;
+    padding-bottom:2px;
+    border-style:double;
+    border-bottom-style:double;
+    font-size:14px;
+    font-family:HELVETICA;
+    border-radius:80px;
+    border-style:solid;
+    border-style:double;  
+  }
+  
+  UL{
+    color:BLACK; 
+  }
+  OL{
+    COLOR:BLACK;
+  }
+  
+  DIV{
+    BORDER-COLOR:BLACK;
+    BORDER-WIDTH:90PX;
+      BORDER-STYLE:SOLIDE;
+  IMG{
+    POSITION:ABSOLUTE;
+    RIGHT:5PX;
+    TOP:10PX;
+    }
+    H3{
+      BORDER-COLOR:BLACK;
+    BORDER-WIDTH:90PX;
+      BORDER-STYLE:SOLIDE;
+    }
+    INPUT{
+       BORDER-COLOR:BLACK;
+    BORDER-WIDTH:90PX;
+      BORDER-STYLE:SOLIDE;
+      BACKGROUND-COLOR:green;
+    COLOR:white;
+    }
+  
+  
+  
